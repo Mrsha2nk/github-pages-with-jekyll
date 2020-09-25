@@ -1,3 +1,4 @@
-# Welcome to my blog
+# The Next Big Thing in Machine Learning
 
-I'm glad you are here. I plan to talk about ...
+this post is all about machine learning and its emerging technologies , ercently discovered image processing neural network design
+which is changing the *Animation World*...
