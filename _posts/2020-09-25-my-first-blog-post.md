@@ -1,3 +1,8 @@
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
+
 CI/CD with AWS CodeBuild and Git Branches
 Each project in our Cloud Native application is built and deployed using CodeBuild. 
 The first step when creating a new component starts with provisioning a CodeBuild instance in the deployment environment using CloudFormation.
